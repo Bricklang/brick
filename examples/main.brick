@@ -1,0 +1,5 @@
+fn main()->i32 {
+    val x::i32;
+    println("Hello" + "World!");
+    ret (1-5)*2;
+}
